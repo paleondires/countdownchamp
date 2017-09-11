@@ -13,14 +13,7 @@
     margin: 15px;
 }
 
-/*.Clock-hours {*/
-/*display: inline;*/
-/*}*/
-
-/*.Clock-minutes {*/
-/*display: inline;*/
-/*}*/
-
-/*.Clock-seconds {*/
-/*display: inline;*/
-/*}*/
+.date-form {
+  font-size: 25px;
+  margin: 5px;
+}
